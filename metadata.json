@@ -1,0 +1,8 @@
+{
+  "name": "MATLAB DR Screening Pipeline",
+  "description": "A MATLAB & Simulink-based retinal image analysis and telemedicine pipeline for automated Diabetic Retinopathy screening across rural Indian healthcare centers, featuring image quality triage, retinal structure segmentation, ICDR grading, Grad-CAM explainability, and district-level resource simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
